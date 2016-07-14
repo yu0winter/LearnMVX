@@ -19,4 +19,5 @@ Demystifying MVC, MVP, MVVM and VIPER
 ](https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52#.7mjbra59g)
 
 
-2.[猿题库 iOS 客户端架构设计](http://gracelancy.com/blog/2016/01/06/ape-ios-arch-design/)
+2.[MVVM without bind with DataController](http://gracelancy.com/blog/2016/01/06/ape-ios-arch-design/)
+，出自《猿题库 iOS 客户端架构设计》
